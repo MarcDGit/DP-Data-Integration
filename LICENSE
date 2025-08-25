@@ -1,4 +1,18 @@
-                    GNU GENERAL PUBLIC LICENSE
+GNU General Public License v3.0
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Below is a summary of the key terms, followed by the full license text.
+
+Summary
+
+Copyleft: Any derivative work or fork of this project must also be licensed under the GPL-3.0, ensuring that modifications remain open-source.
+Attribution: You must give appropriate credit to the original author when reusing or distributing this software.
+No Liability: The software is provided "as is," without warranty of any kind. The author is not liable for any damages or issues arising from its use.
+Patent Grant: The license includes an express grant of patent rights from contributors to users.
+For the full terms, see the license text below or visit https://www.gnu.org/licenses/gpl-3.0.en.html.
+
+Full License Text:
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
