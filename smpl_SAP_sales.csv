@@ -1,0 +1,4 @@
+Transaction_Date,Material,Qty,Amount,Cust
+2023-01-01,ProdA,10,100,Cust1
+2023-01-02,ProdB,5,50,Cust2
+2023-01-03,ProdC,15,150,Cust3
